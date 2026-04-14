@@ -27,7 +27,7 @@ The primary script (`forloop.m`) processes multiple datasets in batch mode. It m
 1. Clone or download this repository.
 2. Ensure the `emhmm-toolbox` is located in the same directory as the script.
 3. Place your eye-tracking `.xlsx` files in the `data/` folder.
-4. Run the script `forloop.m` in MATLAB.
+4. Run the script `main.m` in MATLAB.
 
 Results will be automatically generated in directories separated by the maximum number of hidden states (`K=3`, `K=4`, `K=5`).
 
